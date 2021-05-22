@@ -4,10 +4,9 @@ title: Videos
 permalink: /videos/
 ---
 
-<iframe width="100%" src="https://www.youtube.com/embed/MfHQuWe_9dU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sWlu2ses2Uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="container">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/MfHQuWe_9dU"></iframe>
+</div>
 <div class="container">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/sWlu2ses2Uo"></iframe>
 </div>
